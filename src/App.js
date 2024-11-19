@@ -17,6 +17,7 @@ function App() {
         >
           Learn React from Albert Mundu (1.0)
         </a>
+        <p>Note: This page is for experimentation. </p>
       </header>
     </div>
   );
